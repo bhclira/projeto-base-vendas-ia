@@ -7,3 +7,5 @@
 - [ ] transformar dados de vendas em informações relevantes para a fábrica.
 - [ ] Quais são os produtos mais populares em cada país?
 - [ ] Como otimizar o processo de transporte e logistica até o momento da venda?
+  
+## veja no Arquivo \prompts\copilot_prompts.md os Insights obtidos a partir dos dados disponíveis para o treinamento da IA.
